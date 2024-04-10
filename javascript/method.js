@@ -1,7 +1,7 @@
 let a = Number(prompt("Введите а = "));
 let b = +prompt("Введите b = ");
 let c = +prompt("Введите с = ");
-let La bis(a,b,c);
+let La = bis(a,b,c);
 
 console.log(La);
 function bis(A, B, C) {
