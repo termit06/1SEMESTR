@@ -1,0 +1,216 @@
+@charset "UTF-8";
+
+
+.wrapper {
+  
+  width: 1440px;
+  margin: 0 auto;
+  
+}
+
+.wrapper-container {
+  padding: 0 138px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.wrapper-forcontent {
+  min-height: 100vh;
+  /* 100 видимых высот */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+
+.content-without-footer {
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  
+}
+
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+
+
+.discount {
+  padding-top: 48px;
+  padding-bottom: 72px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #FAFAF9;
+  margin-top: -95px;
+}
+
+.discount-up {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-bottom: 38px;
+}
+
+.discount-up-stocks {
+  display: block;
+  font-family: rubik;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #5B636B;
+}
+
+.discount-up-link {
+  font-family: rubik;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #DB4E66;
+  text-transform: uppercase;
+}
+
+.discount-cards {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+}
+
+.discount-card {
+  min-width: 546px;
+  min-height: 194px;
+  padding: 35px;
+  background-color: #FFFFFF;
+  border-radius: 14px;
+  -webkit-box-shadow: 0px 4px 9px #D3D3D3;
+  box-shadow: 0px 4px 9px #D3D3D3;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-right: 16px;
+  margin-bottom: 10px;
+  -webkit-transition: -webkit-transform 800ms ease;
+  transition: -webkit-transform 800ms ease;
+  transition: transform 800ms ease;
+  transition: transform 800ms ease, -webkit-transform 800ms ease;
+  cursor: pointer;
+}
+
+.discount-card:first-child {
+  margin-left: 130px;
+}
+
+.discount-card:nth-child(2) .discount-card-img {
+  background-color: #F2B236;
+}
+
+.discount-card:nth-child(2):hover {
+  -webkit-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+
+.discount-card:nth-child(2):hover~.discount-card:last-child {
+  -webkit-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+
+.discount-card:last-child {
+  margin-right: 0;
+}
+
+.discount-card:last-child .discount-card-img {
+  background-color: #DB4E66;
+}
+
+.discount-card:last-child:hover {
+  -webkit-transform: translateX(-70%);
+  transform: translateX(-70%);
+}
+
+.discount-card-img {
+  min-width: 118px;
+  min-height: 118px;
+  margin-right: 18px;
+  background-color: #90c1bf;
+  border-radius: 10px;
+  position: relative;
+}
+
+.discount-card-img-percent {
+  font-family: rubik;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FAFAF9;
+  position: absolute;
+}
+
+.discount-card-img-percent:first-child {
+  top: 5px;
+  left: 63px;
+}
+
+.discount-card-img-percent:nth-child(2) {
+  font-family: rubik;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 38px;
+  line-height: 45px;
+  top: 39px;
+  left: 12px;
+}
+
+.discount-card-img-percent:last-child {
+  bottom: 4px;
+  left: 13px;
+}
+
+.discount-card-description-title {
+  display: block;
+  font-family: rubik;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #DB4E66;
+  max-width: 265px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 19px;
+}
+
+.discount-card-description-txt {
+  font-family: rubik;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0;
+  color: #222528;
+}
+
