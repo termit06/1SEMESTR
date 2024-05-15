@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+
+.wrapper {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.wrapper-container {
+  padding: 0 138px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.wrapper-forcontent {
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+
+.content-without-footer {
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+
+.vido {
+  background-color: #FAFAF9;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.vido-back {
+  padding: 408px 0 331px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-image: url(../img/background-child-video.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-y: 72px;
+  position: relative;
+}
+
+.vido-video {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  outline: none;
+  
+}
+
+.vido-video:hover~.vido-video-btn {
+  background-color: #FF1F3D;
+}
+
+.vido-video:hover~.vido-video-btn>.vido-video-btn-svg {
+  fill: #E2DFF4;
+}
+
+.vido-video-btn {
+  padding: 20px 18px 15px 27px;
+  border-radius: 50%;
+  position: absolute;
+  left: 685px;
+  bottom: 500px;
+  background-color: #FF6B6B;
+  -webkit-transition: background-color 1s ease-out,
+    -webkit-transform 500ms ease;
+  transition: background-color 1s ease-out,
+    -webkit-transform 500ms ease;
+  transition: transform 500ms ease,
+    background-color 1s ease-out;
+  transition: transform 500ms ease,
+    background-color 1s ease-out,
+    -webkit-transform 500ms ease;
+}
+
+.vido-video-btn:hover {
+  background-color: #FF1F3D;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.vido-video-btn:hover>.vido-video-btn-svg {
+  fill: #E2DFF4;
+}
+
+.vido-video-btn-svg {
+  fill: #FAFAF9;
+  -webkit-transition: fill 1s ease-out;
+  transition: fill 1s ease-out;
+}
+
