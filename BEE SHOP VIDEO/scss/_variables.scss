@@ -1,0 +1,89 @@
+
+$wrapper-width: 1440px;
+$wrapper-container-left-right: 138px;
+
+
+
+
+$white: #FFFFFF;
+$white-light: #FAFAF9;
+$white-bright: #F7E6E6;
+$white-shadow: #EBE7E0;
+$white-gray: #E2DFF4;
+
+$brown: #884900;
+$brown-cherry: #420000;
+$light-brown: #865800;
+
+$pink: #DB4E66;
+$pink-cherry: #B0354A;
+$pink-light: #E8B0B9;
+$pink-pink: #FF6B6B;
+$fresh-pink: #FF1F3D;
+
+$dark: #222528;
+$black-grey: #222528;
+
+$grey: #A5AAAF;
+$gray-shadow: #D3D3D3;
+$light-grey: #90c1bf;
+$lighter-grey:#CED0D2;
+$dark-grey: #5B636B;
+$blurred-grey:#FBF5EA;
+
+$orange: #F2B236;
+$main-background-two: #ff9c1a;
+$dark-orange: #FBB835;
+
+$peach: #F6D799;
+$blurred-peach: #FFDD9B;
+$shadow-peach:#FFE9BF;
+
+
+
+.wrapper {
+    
+    margin: 0 auto;
+
+    
+    &-container {
+        padding: 0 $wrapper-container-left-right;
+        box-sizing: border-box;
+    }
+
+    
+    &-forcontent {
+        min-height: 100vh;
+       
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+
+.content-without-footer {
+    flex-grow: 1;
+
+    
+}
+
+
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    background: transparent;
+    outline: none;
+}
+

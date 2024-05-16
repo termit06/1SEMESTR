@@ -1,0 +1,61 @@
+
+.click-basic-btn {
+    @include font (500, 16px, 19px);
+    padding: 18px 92px;
+    text-transform: uppercase;
+    color: $white;
+    background-color: $pink;
+    box-shadow: 2px 4px 9px rgba(243, 55, 87, 0.42);
+    border-radius: 14px;
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+    transition: transform 400ms ease,
+        background-color 1s ease-out,
+        color 1s ease-out;
+
+    &:hover {
+        background-color: $pink-cherry;
+        transform: scale(1.1);
+        color: $brown-cherry;
+    }
+
+    &:active {
+        background-color: $pink;
+        transform: scale(1);
+        color: $white;
+    }
+
+    &:disabled {
+        background-color: $pink-light;
+        color: #F7E6E6;
+
+        &:hover {
+            background-color: $pink-light;
+            color: #F7E6E6;
+            transform: none;
+        }
+    }
+
+    &-orange {
+        padding: 18px 62px;
+        background-color: $orange;
+        box-shadow: 0px 3px 7px $shadow-peach;
+
+        &:hover {
+            background-color: $dark-orange;
+            color: $light-brown;
+        }
+
+        &:disabled {
+            background-color: $blurred-peach;
+            color: $blurred-grey;
+
+            &:hover {
+                background-color: $blurred-peach;
+                color: $blurred-grey;
+                transform: none;
+            }
+        }
+    }
+}
