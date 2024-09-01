@@ -1,0 +1,33 @@
+/* Переменные (через $) */
+
+
+/* === wrapper === */
+/* Обёртки - отдельный блок */
+.wrapper{
+    /*Максимальная ширина страницы и выравнивание содержимого по центру*/
+    //max-width: 1440px;
+    margin: 0 auto;
+
+    //Отступы по краям
+    &-container {
+        //padding: 0 120px;
+        box-sizing: border-box;
+    }
+    
+    /* Обёртка для прижатия подвала к нижней части */
+    &-forcontent{
+        min-height: 100vh; /* 100 видимых высот */
+        display: flex;
+        flex-direction: column;
+    }
+}
+/* end === wrapper === end */
+
+
+
+/* === content-without-footer === */
+/* Основная часть без footer */
+.content-without-footer{
+    flex-grow:1; /* Отношение блоков */
+}
+/* end === content-without-footer === end */
