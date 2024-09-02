@@ -1,0 +1,42 @@
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\виктор\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Пользователь\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Пользователь\Desktop\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Пользователь\Desktop\Пересдача\Odnomernie massive\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
