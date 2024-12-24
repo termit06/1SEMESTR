@@ -1,0 +1,1448 @@
+@media (max-width: 768px) {
+    .wrapper {
+        /* Добавьте стили для .wrapper, если необходимо */
+    }
+
+    .wrapper-forcontent {
+        flex-direction: column; /* Убедитесь, что элементы располагаются вертикально */
+    }
+
+    .content-without-footer {
+        /* Можно добавить дополнительные стили, если нужно */
+    }
+
+     .container-11 {
+        font-size: 24px; /* Уменьшите размер шрифта для меньших экранов */
+    }
+
+     .container-7,
+     .container-8,
+     .container-9 {
+        font-size: 16px; 
+        width: 123%; /* Задайте ширину 100% для контейнеров */
+        margin-right: 0; /* Уберите отступ справа */
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+     .light {
+        flex-direction: column; 
+        
+    }
+     .container-5,
+     .container-6,
+     .container-9,
+     .container-10 {
+        font-size: 16px; 
+        line-height: 1.5; /* Увеличение межстрочного интервала для улучшения читаемости */
+        width: 123%; /* Установка ширины на 100% для адаптивности */
+        margin: 5px 0; /* Уменьшение маргина для ограничения пространства */
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+     .navigation {
+        flex-direction: column; /* Вертикальное выравнивание навигации */
+        width: 178%; /* Установка ширины на 100% для навигации */
+    }
+
+     .c {
+        font-size: 30px; /* Уменьшение размера шрифта для подписи */
+        line-height: 1.25; /* Увеличение межстрочного интервала для лучшего восприятия */
+    }
+     .group-15 {
+        margin-right: 33px; /* Убираем правый отступ для меньших экранов */
+        align-items: center; /* Выравнивание по центру для лучше планшетного просмотра */
+    }
+
+     .container-12 {
+        margin-left: 5px; /* Убираем отступ слева */
+        font-size: 15px; /* Уменьшаем размер текста для улучшения читаемости */
+    }
+
+     .th-1-button-fixed-text-medium-primary {
+        width: 100%; /* Задаем ширину 100% для кнопки */
+        padding: 10px 55px; /* Меняем отступы для кнопки */
+    }
+
+     .frame-5 {
+        width: 44%; /* Установка ширины на 100% для лучшего использования пространства */
+    }
+
+     .menu-desktop-01-light {
+        padding: 0px; /* Уменьшаем отступы в меню */
+        flex-direction: column; /* Меняем направление на вертикальное для меньших экранов */
+        align-items: center; /* Центрируем элементы в меню */
+    }
+
+     .container {
+        font-size: 48px; /* Уменьшаем шрифт для заголовка */
+        margin: 0 20px; /* Убираем боковые отступы */
+    }
+
+     .container-1 {
+        font-size: 20px; /* Уменьшаем шрифт для третьего заголовка */
+        margin: 0 10px; /* Устанавливаем границы */
+    }
+
+     .title {
+        margin-bottom: 20px; /* Уменьшаем отступ между заголовком и контентом */
+    }
+    .container-4 {
+        margin-left: 224px; /* Уменьшаем левый отступ */
+        font-size: 16px; /* Уменьшаем размер шрифта */
+    }
+
+    .th-1-button-fixed-text-large-primary-1 {
+        width: 100%; /* Установка ширины на 100% для кнопки */
+        margin-right: 0; /* Убираем правый отступ */
+        padding: 12px 0; /* Уменьшаем отступы */
+    }
+
+    .container-3 {
+        margin-left: 244px; /* Уменьшаем левый отступ */
+        font-size: 16px; /* Уменьшаем размер шрифта */
+    }
+
+    .th-1-button-fixed-text-large-primary {
+        width: 100%; /* Установка ширины на 100% для кнопки */
+        padding: 12px 0; /* Уменьшаем отступы */
+    }
+
+    .th-1-button-fixed-text-large-secondary {
+        width: 100%; /* Установка ширины на 100% для кнопки */
+    }
+
+    .frame-6 {
+        flex-direction: column; /* Меняем направление на вертикальное для мобильных устройств */
+        width: 100%; /* Задаем ширину 100% */
+    }
+
+    .container-2 {
+        font-size: 14px; /* Уменьшаем размер шрифта */ 
+    }
+
+    .buttons-01-horizontal {
+        width: 100%; /* Задаем ширину 100% */
+        flex-direction: column; /* Устанавливаем вертикальное направление */
+    }
+    .frame-2 {
+        margin-bottom: 80px; /* Уменьшаем отступ снизу */
+    }
+
+    .polygon-1 {
+        width: 55px; /* Уменьшаем размер */
+        height: 14px; /* Уменьшаем размер */
+    }
+
+    .arrow-down {
+        width: 60px; /* Уменьшаем размер стрелки */
+        height: 60px; /* Уменьшаем размер стрелки */
+    }
+
+    .cover-02-desktop {
+        padding: 100px 0px 30px; /* Уменьшаем внутренние отступы */
+        width: 100%; /* Задаем ширину 100% */
+    }
+
+    .container-19,
+    .container-18 {
+        font-size: 20px; /* Уменьшаем размер шрифта */
+    }
+
+    .container-17 {
+        font-size: 40px; /* Уменьшаем размер шрифта */
+    }
+
+    .title-center-desktop-light {
+        margin-bottom: 40px; /* Уменьшаем отступ снизу* /
+    }
+
+    .rectangle-18209 {
+        width: 200px; 
+        height: 200px; /* Уменьшаем высоту карты */
+    }
+
+    .container-20,
+    .container-21 {
+        font-size: 20px; /* Уменьшаем размер шрифта */
+        width: 756px;
+    }
+
+    .frame-44 {
+        width: 100%; /* Задаем ширину 100% */
+        justify-content: space-evenly;
+    }
+    .member-1-of-4-square-light,
+    .member-1-of-4-square-light-1,
+    .frame-441,
+    .frame-442 {
+        /* Групповые стили для выравнивания и отображения */
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Центрируем элементы по горизонтали */
+        width: 100%; /* Установка ширины на 100% */
+        box-sizing: border-box;
+    }
+
+    .rectangle-182091,
+    .rectangle-182092 {
+        /* Уменьшаем размеры квадратов */
+        width: 100%; /* Ширина теперь 100% */
+        max-width: 265px; /* Максимальная ширина */
+         /* Высота пропорциональна ширине */
+        margin-bottom: 16px; /* Упрощаем отступ между элементами */
+    }
+
+    .container-22,
+    .container-24 {
+        /* Уменьшаем размер шрифта заголовка */
+        font-size: 20px; /* Уменьшаем размер шрифта */
+        margin-bottom: 8px; /* Уменьшаем отступ снизу */
+        text-align: center; /* Центрируем текст */
+        width: 771px;
+    }
+
+    .container-23,
+    .container-25 {
+        /* Уменьшаем размер текста для тела */
+        font-size: 19px; /* Уменьшаем размер шрифта */
+    }
+
+    .frame-441,
+    .frame-442 {
+        /* Групповые стили */
+        width: 100%; /* Ширина заполнит доступное пространство */
+    }
+    .member-1-of-4-square-light-2,
+    .member-1-of-4-square-light-3 {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        align-items: center;  /* Центрируем элементы по горизонтали */
+        width: 100%; /* Задаем ширину 100% */
+    }
+
+    .rectangle-182093 {
+        width: 100%; /* Ширина теперь 100% */
+        max-width: 200px; /* Максимальная ширина */
+         /* Высота пропорциональна ширине */
+        margin-bottom: 16px; /* Упрощаем отступ между элементами */
+    }
+
+    .container-26,
+    .container-27 {
+        font-size: 20px; /* Уменьшаем размер шрифта для лучшей читаемости */
+        text-align: center; /* Центрируем текст */
+        margin-bottom: 8px; /* Уменьшаем отступ снизу */
+        width: 772px;
+    }
+
+    .frame-9 {
+        display: flex;
+        flex-direction: column; /* Меняем направление на столбик для мобильных устройств */
+        width: 100%; /* Задаем ширину 100% для заполнения пространства */
+    }
+
+    .benefits-05 {
+        padding: 60px 0; /* Уменьшаем внутренние отступы для мобильных */
+        width: 100%; /* Задаем ширину 100% */
+    }
+
+    .title-1 {
+        margin-bottom: 40px; /* Уменьшаем отступ снизу для заголовка */
+    }
+
+    .container-14 {
+        font-size: 36px;  /* Уменьшаем размер шрифта для заголовка */
+    }
+
+    .container-15 {
+        font-size: 16px; /* Уменьшаем размер шрифта для текста */
+    }
+
+    .container-16 {
+        margin-left: 39px; /* Убираем левый отступ для текстовых блоков */
+        text-align: center; /* Центрируем текст */
+    }
+
+    .th-1-button-fixed-text-large-primary-2 {
+        width: 100%; /* Кнопка будет занимать всю ширину доступного места */
+        max-width: 161px; /* Максимальная ширина кнопки */
+        margin: 0 auto; /* Центрируем кнопку */
+    }
+    .buttonlargesecondary {
+        width: 100%; /* Устанавливаем ширину кнопки на 100% */
+        max-width: 200px; /* Максимальная ширина для кнопки */
+    }
+
+    .about-02-desktop {
+        padding: 60px 0px 64px; /* Уменьшаем внутренние отступы */
+        width: 100%; /* Задаем ширину 100% для адаптации под экран */
+        box-sizing: border-box;
+    }
+
+    .container-29 {
+        font-size: 22px; /* Уменьшаем размер шрифта */
+        margin-bottom: 16px; /* Уменьшаем отступ снизу */
+    }
+
+    .container-28 {
+        font-size: 36px; /* Уменьшаем размер шрифта заголовка */
+        line-height: 1.2; /* Уменьшаем межстрочный интервал */
+    }
+
+    .title-center-desktop-light-1 {
+        margin: 0px 0px 32px; /* Уменьшаем отступы */
+    }
+
+    .container-31 {
+        width: 20px; /* Уменьшаем размеры */
+        height: 20px;
+    }
+
+    .discount, .discount-1 {
+        width: 36px; /* Уменьшаем размеры значков */
+        height: 36px;
+    }
+
+    .container-30, .container-34 {
+        width: 60px; /* Уменьшаем размеры контейнеров */
+        height: 60px;
+        padding: 15px 0;
+    }
+
+    .container-32, .container-36 {
+        font-size: 22px; /* Уменьшаем размер текста */
+        margin-bottom: 12px; /* Уменьшаем отступы */
+    }
+
+    .container-33 {
+        font-size: 16px; /* Уменьшаем размер текста */
+    }
+
+    .frame-8 {
+        flex-direction: column; /* Делаем вертикальным выравнивание для мобильных */
+        align-items: center; /* Центрируем элементы внутри блока */
+        width: 100%; /* Задаем ширину 100% */
+    }
+
+    .icon-text-center-1-of-4-light {
+        margin-right: 0; /* Убираем правый отступ */
+        margin-bottom: 30px; /* Отступ снизу для разделения элементов на мобильном */
+    }
+    .buttonlargesecondary {
+        position: relative;
+        display: flex;
+        width: 100%; /* Устанавливаем ширину кнопки на 100% */
+        max-width: 200px; /* Максимальная ширина для кнопки */
+        box-sizing: border-box;
+    }
+
+    .about-02-desktop {
+        background: rgb(255, 255, 255);
+        position: relative;
+        margin-right: 0; /* Убираем правый отступ */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 60px 0px 64px; /* Уменьшаем внутренние отступы */
+        width: 100%; /* Задаем ширину 100% для адаптации под экран */
+        box-sizing: border-box;
+    }
+
+    .container-29 {
+        margin-bottom: 16px; /* Уменьшаем отступ снизу */
+        overflow-wrap: break-word;
+        font-family: var(--style-1-title-2-medium-font-family, 'Stem', 'Roboto Condensed');
+        font-weight: var(--style-1-title-2-medium-font-weight, 500);
+        font-size: 22px; /* Уменьшаем размер шрифта */
+        line-height: var(--style-1-title-2-medium-line-height, 1.3);
+        color: rgb(0, 189, 248);
+    }
+
+    .container-28 {
+        text-align: center;
+        overflow-wrap: break-word;
+        font-family: var(--style-1-display-bold-font-family, 'Stem', 'Roboto Condensed');
+        font-weight: var(--style-1-display-bold-font-weight, 700);
+        font-size: 36px; /* Уменьшаем размер шрифта заголовка */
+        line-height: 1.2; /* Уменьшаем межстрочный интервал */
+        color: var(--text-light-title, #000000);
+    }
+
+    .title-center-desktop-light-1 {
+        margin: 0px 0px 32px; /* Уменьшаем отступы */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: fit-content;
+        box-sizing: border-box;
+    }
+
+    .container-31 {
+        width: 36px; /* Уменьшаем размеры */
+        height: 32px;
+    }
+
+    .discount,
+    .discount-1 {
+        display: flex;
+        width: 36px; /* Уменьшаем размеры значков */
+        height: 36px;
+        box-sizing: border-box;
+    }
+
+    .container-30,
+    .container-34 {
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 8px 40px 0px;
+        border-radius: 40px;
+        background: rgb(255, 255, 255);
+        position: relative;
+        margin: 0px 5px 32px 0px;
+        display: flex;
+        padding: 15px 12px; /* Уменьшаем внутренние отступы */
+        width: 60px; /* Уменьшаем размеры контейнеров */
+        height: 60px;
+        box-sizing: border-box;
+        cursor: pointer;
+    }
+
+    .container-32,
+    .container-36 {
+        margin-bottom: 12px; /* Уменьшаем отступы */
+        overflow-wrap: break-word;
+        font-family: var(--style-1-title-2-medium-font-family, 'Stem', 'Roboto Condensed');
+        font-weight: var(--style-1-title-2-medium-font-weight, 500);
+        font-size: 17px; /* Уменьшаем размер текста */
+        line-height: var(--style-1-title-2-medium-line-height, 1.3);
+        color: var(--black-100, #000000);
+    }
+
+    .container-33 {
+        text-align: center;
+        overflow-wrap: break-word;
+        font-family: var(--style-1-body-1-regular-font-family, 'Stem', 'Roboto Condensed');
+        font-weight: var(--style-1-body-1-regular-font-weight, 700);
+        font-size: 16px; /* Уменьшаем размер текста */
+        line-height: var(--style-1-body-1-regular-line-height, 1.333);
+        color: var(--black-40, rgba(0, 0, 0, 0.4));
+    }
+
+    .frame-8 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%; /* Задаем ширину 100% */
+        box-sizing: border-box;
+    }
+
+    .icon-text-center-1-of-4-light {
+        margin-right: 0px; /* Убираем правый отступ */
+        margin-bottom: 62px; /* Отступ снизу для разделения элементов на мобильном */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-sizing: border-box;
+    }
+
+    .container-35 {
+        width: 36px; /* Уменьшаем размеры */
+        height: 29px;
+        cursor: pointer;
+    }
+    .container-37 {
+        font-size: 16px; /* Уменьшение размера шрифта для мобильных */
+        width: 279px;
+    }
+
+    .frame-81 {
+        width: 100%; /* Устанавливаем ширину на 100% для адаптации */
+        padding: 20px -1px; /* Уменьшаем внутренние отступы */
+    }
+
+    .icon-text-center-1-of-4-light-1 {
+        margin-right: 0; /* Убираем отступ справа */
+        margin-bottom: 20px; /* Добавляем отступ снизу для разделения элементов */
+    }
+
+    .container-39 {
+        width: 40px; /* Уменьшаем размеры иконки */
+        height: 33px;
+    }
+
+    .discount-2 {
+        width: 40px; /* Уменьшаем размеры значков */
+        height: 40px;
+    }
+
+    .container-38 {
+        width: 60px; /* Уменьшаем размеры контейнера */
+        height: 60px;
+        padding: 20px 10px; /* Уменьшаем внутренние отступы */
+    }
+
+    .container-40 {
+        font-size: 16px; /* Уменьшаем размер шрифта для заголовка */
+        margin-bottom: 12px; /* Уменьшаем отступ снизу */
+    }
+
+    .container-41 {
+        font-size: 16px; /* Уменьшаем размер текста */
+    }
+
+    .icon-text-center-1-of-4-light-2 {
+        margin-right: 0px; /* Убираем отступ справа */
+        margin-bottom: 20px; /* Добавляем отступ снизу для разделения элементов */
+    }
+
+    .container-43 {
+        width: 37px; /* Уменьшаем размеры иконки */
+        height: 24px;
+    }
+
+    .discount-3 {
+        width: 40px; /* Уменьшаем размеры значков */
+        height: 40px;
+    }
+
+    .container-42 {
+        margin: 0px 108px 20px; /* Убираем правый отступ и уменьшаем отступ снизу */
+        width: 60px; /* Уменьшаем размеры контейнера */
+        height: 60px;
+        justify-content: space-evenly;
+    }
+    .container-44 {
+        font-size: 24px; /* Уменьшаем размер шрифта для мобильных */
+        margin-bottom: 12px; /* Уменьшаем отступ снизу */
+    }
+
+    .container-45 {
+        font-size: 16px; /* Уменьшаем размер текста */
+    }
+
+    .frame-83 {
+        width: 100%; /* Устанавливаем ширину на 100% для адаптации */
+        padding: 20px; /* Уменьшаем отступы */
+    }
+
+    .benefits-05-desktop {
+        padding: 60px 0; /* Уменьшаем паддинг */
+        width: 100%; /* Устанавливаем ширину на 100% для адаптации */
+    }
+
+    .container-48,
+    .container-46 {
+        font-size: 22px; /* Уменьшаем размер текста */
+        margin-bottom: 16px; /* Уменьшаем отступ снизу */
+    }
+
+    .container-47 {
+        font-size: 18px; /* Уменьшаем размер текста */
+    }
+
+    .title-center-desktop-light-2 {
+        margin-bottom: 32px; /* Уменьшаем отступ снизу */
+    }
+    .container-49, .container-51 {
+        font-size: 24px; /* Уменьшение размера шрифта для мобильных устройств */
+        margin-bottom: 8px; /* Уменьшение отступов */
+    }
+
+    .container-50, .container-52 {
+        font-size: 16px; /* Уменьшение размера шрифта */
+    }
+
+    .card-1-of-3, .card-1-of-31 {
+        width: 100%; /* Установите ширину карточек на 100% */
+        padding: 180px 0px 20px; /* Уменьшение отступов */
+        /* Если нужно, можете также использовать значение max-width, чтобы ограничить ширину */
+        max-width: 350px; /* Ограничиваем максимальную ширину */
+    }
+
+    .card-1-of-3-text-bottom-center-dark, .card-1-of-3-text-bottom-center-dark-1 {
+        width: 100%; /* Установка ширины на 100% для мобильных */
+        justify-content: space-evenly;
+        padding: 16px;
+    }
+    .container-53,
+    .container-55,
+    .container-57 {
+        font-size: 24px; /* Уменьшаем размер шрифта для мобильных устройств */
+        margin-bottom: 8px; /* Уменьшаем отступы */
+    }
+
+    .container-54,
+    .container-56,
+    .container-58 {
+        font-size: 16px; /* Уменьшаем размер текста */
+    }
+
+    .card-1-of-32,
+    .card-1-of-33,
+    .card-1-of-34 {
+        width: 100%; /* Устанавливаем ширину карточек на 100% */
+        padding: 180px 0 20px; /* Уменьшаем отступы */
+        max-width: 350px; /* Ограничиваем максимальную ширину */
+    }
+
+    .card-1-of-3-text-bottom-center-dark-2,
+    .card-1-of-3-text-bottom-center-dark-3 {
+        width: 100%; /* Установка ширины на 100% для мобильных */
+        justify-content: space-evenly;
+        padding: 16px;
+    }
+
+    .frame-92 {
+        flex-direction: column; /* Изменяем направление на вертикальное для мобильных */
+        width: 100%; 
+        column-gap: 0; /* Убрать промежутки между карточками для мобильных */
+    }
+    .container-59,
+    .container-61 {
+        font-size: 24px; /* Уменьшаем размер шрифта для мобильных устройств */
+        margin-bottom: 8px; /* Уменьшаем отступы */
+    }
+
+    .container-60,
+    .container-62 {
+        font-size: 16px; /* Уменьшаем размер текста */
+    }
+
+    .card-1-of-34,
+    .card-1-of-35 {
+        width: 100%; /* Устанавливаем ширину карточек на 100% */
+        padding: 180px 0 20px; /* Уменьшаем отступы */
+        max-width: 350px; /* Ограничиваем максимальную ширину */
+    }
+
+    .card-1-of-3-text-bottom-center-dark-4,
+    .card-1-of-3-text-bottom-center-dark-5 {
+        width: 100%; /* Установка ширины на 100% для мобильных */
+        justify-content: space-evenly;
+        padding: 16px;
+    }
+
+.card-1-of-3-text-bottom-center-dark-4 {}
+
+.card-1-of-3-text-bottom-center-dark-4 {}
+
+    .frame-10 {
+        flex-direction: column; /* Изменяем направление на вертикальное для мобильных */
+        width: 100%; 
+        column-gap: 0; /* Убрать промежутки между карточками для мобильных */
+    }
+
+    .frame-36 {
+        width: 100%; 
+    }
+
+    .benefits-10-desktop {
+        width: 100%; 
+        margin: 20px; /* Уменьшаем внешний отступ на мобильных устройствах */
+    }
+    .container-63, .container-66, .container-79 {
+        font-size: 12px; /* Уменьшаем размер шрифта заголовков */
+        margin-bottom: 20px; /* Уменьшаем отступы для заголовков */
+    }
+
+    .container-64, .container-67 {
+        font-size: 16px; /* Уменьшаем текст для основной информации */
+        margin-bottom: 10px; /* Меняем отступы */
+    }
+
+    .container-65, .container-68 {
+        font-size: 12px; /* Уменьшаем шрифт для меток и дополнений */
+    }
+
+    .review-1-of-3-light, .review-1-of-3-light-1 {
+        width: 100%; /* Устанавливаем ширину карточек на 100% */
+        padding: 20px; /* Уменьшаем внутренние отступы */
+    }
+
+    .review-1-of-2-light, .review-1-of-2-light-1 {
+        width: 100%; /* Устанавливаем ширину для отзывов */
+    }
+
+    .frame-101, .frame-102, .frame-23 {
+        flex-direction: column; /* Переключаем на вертикальное расположение для мобильных */
+        width: 100%; 
+        align-items: center; /* Центрируем элементы */
+    }
+    
+    .ellipse-11 {
+        width: 50px; /* Уменьшаем размер иконок */
+        height: 50px; /* Уменьшаем размер иконок */
+    }
+    .container-80 {
+        font-size: 17px; /* Уменьшаем размер шрифта */
+    }
+
+    .frame-21 {
+        margin-bottom: 30px; /* Уменьшаем отступы */
+    }
+
+    .rectangle-58,
+    .rectangle-59,
+    .rectangle-60,
+    .rectangle-61 {
+        width: 100%; /* Устанавливаем ширину на 100% для мобильных */
+        max-width: 300px; /* Ограничиваем максимальную ширину */
+         /* Уменьшаем высоту */
+    }
+
+    .frame-45 {
+        flex-direction: column; /* Изменяем направление на вертикальное для мобильных */
+        align-items: center; /* Центруем элементы */
+        padding: 10px;
+    }
+
+    .benefits-051 {
+        padding: 60px 0; /* Уменьшаем отступы */
+        width: 100%; 
+    }
+    .partners-01-desktop {
+        width: 100%; /* Устанавливаем ширину на 100% для мобильных устройств */
+        margin-right: 0; /* Убираем правый отступ */
+    }
+
+    .container-69 {
+        font-size: 24px; /* Уменьшаем размер шрифта заголовка */
+        margin-bottom: 12px; /* Уменьшаем отступ снизу */
+    }
+
+    .container-70,
+    .container-71,
+    .container-72 {
+        font-size: 16px; 
+    }
+
+    .title-3 {
+        margin-bottom: 20px; 
+    }
+
+    .th-1-form-input-default,
+    .th-1-form-input-default-1 {
+        width: 100%;
+        padding: 8px; 
+    }
+    .email {
+        font-size: 16px; 
+    }
+
+    .th-1-form-input-default-2 {
+        width: 100%; 
+    }
+
+    .container-78 {
+        font-size: 16px; 
+        margin: 0; 
+    }
+
+    .th-1-form-radio-on,
+    .th-1-form-radio-off,
+    .rectangle-471 {
+        width: 20px; 
+        height: 20px;
+}
+
+    .container-75,
+    .container-76 {
+        font-size: 16px;
+    }
+
+    .th-1-form-option,
+    .th-1-form-option-1 {
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .rectangle-472 {
+        width: 20px; 
+        height: 20px;
+    }
+
+    .th-1-form-radio-off-1 {
+        width: 20px; 
+        height: 20px;
+    }
+
+    .container-77 {
+        font-size: 16px; 
+    }
+
+    .th-1-form-option-2 {
+        flex-direction: column;
+    }
+
+    .frame-31, .form-05-vertical, .form-04-vertical {
+        width: 100%;
+        display: flex;
+    }
+
+    .frame-231 {
+        margin-bottom: 24px; 
+    }
+
+    .container-73 {
+        font-size: 16px; 
+    }
+
+    .th-1-button-full-text-large-primary {
+        width: 9%;
+        padding: 11px 0;
+        justify-content: space-evenly;
+    }
+
+    .container-74 {
+        font-size: 12px;
+    }
+
+    .social-button-light-1 {
+        width: 48px; 
+        height: 48px;
+    }
+    .social-button-light-2,
+    .social-button-light-3,
+    .social-button-light {
+        width: 48px; /* Уменьшаем ширину кнопок для мобильных */
+        height: 48px; /* Уменьшаем высоту кнопок для мобильных */
+        padding: 12px; /* Уменьшаем отступы для кнопок на мобильных устройствах */
+    }
+
+    .vector-3, .vector {
+        width: 20px; /* Уменьшаем размер иконок для мобильных */
+        height: auto; /* Автоматическая высота */
+    }
+
+    .social-light {
+        width: 100%; /* Устанавливаем ширину на 100% для лучшей адаптивности */
+        margin: 0 auto; /* Центрируем контейнер */
+        justify-content: space-evenly;
+    }
+    .container-82, .container-83, .container-84, .container-85 {
+        width: 100%; /* Увеличиваем ширину до 100% для удобства */
+        font-size: 16px; /* Уменьшаем размер шрифта для мобильных */
+    }
+
+    .navigation-1 {
+        flex-direction: column; /* Изменяем направление на вертикальное для мобильных */
+        align-items: center; /* Выравниваем по центру */
+        width: 100%;
+    }
+
+    .container-81 {
+        margin-right: 0; /* Убираем отступы для мобильных */
+        margin-left: 0;
+        font-size: 14px; /* Уменьшаем размер шрифта для мобильных */
+    }
+
+    .footer-13 {
+        width: 100%; /* Увеличиваем ширину до 100% для мобильных */
+        padding: 40px 0; /* Уменьшаем отступы */
+    }
+
+    .frame-58 .container, .image-2-3 {
+        width: 100%; /* Увеличиваем ширину для мобильных */
+        margin: 10px 0; /* Уменьшаем отступы */
+    }
+
+    .image-2-3 .image-2-31, .image-2-3 .image-2-32, .image-2-3 .image-2-33 {
+        width: 50%; /* Увеличиваем ширину до 100% для изображений */
+        margin-left: 0; /* Убираем левый отступ */
+        border-radius: 12px; /* Уменьшаем радиус скругления для мобильных */
+    }
+   .form-06-desktop{
+    width: 768px;
+   }
+   .reviews-03-desktop{
+    width: 768px;
+   }
+    .frame-58{
+        width: 768px;
+    }
+}
+@media (max-width: 320px) {
+    .frame-58 {
+        padding: 0px 10px; /* Добавляем небольшой отступ по бокам */
+        max-width: 100%; /* Устанавливаем максимальную ширину на 100% */
+        margin: 0; /* Убираем авто-выравнивание */
+    }
+    .frame-58 .container-11,
+    .frame-58 .container-7,
+    .frame-58 .container-8,
+    .frame-58 .container-9 {
+        font-size: 14px; 
+        line-height: 1.2; 
+        width: 100%; 
+    }
+
+    .frame-58 .container-7 {
+        margin-right: 0; 
+}
+
+    .frame-58 .light {
+        flex-direction: column;
+    }
+    .frame-58 .container-5,
+    .frame-58 .container-6,
+    .frame-58 .container-9,
+    .frame-58 .container-10,
+    .frame-58 .c {
+        font-size: 14px; /* Уменьшаем размер шрифта */
+        width: 136px;
+        line-height: 1.2; /* Уменьшаем межстрочный интервал */
+    }
+
+    .frame-58 .navigation {
+        width: 100%; 
+        flex-direction: column; /* Изменяем направление на вертикальное */
+    }
+
+    .frame-58 .c {
+        margin-bottom: 8px; /* Увеличиваем нижний отступ для большего пространства */
+    }
+    .group-15 {
+        margin-right: 0; 
+    }
+
+    .container-12 {
+        font-size: 12px; 
+        margin-left: 10px; 
+    }
+
+    .th-1-button-fixed-text-medium-primary {
+        width: 100%; 
+}
+
+    .frame-5 {
+        width: 21%;
+    }
+
+    .menu-desktop-01-light {
+        padding: 10px; 
+    }
+
+    .frame-39 {
+        flex-direction: column; 
+    align-items: center; 
+    }
+    .container {
+        margin: 0px 16px 12px; /* Уменьшаем отступы */
+        font-size: 36px; /* Уменьшаем размер шрифта */
+    }
+
+    .container-1 {
+        font-size: 18px; /* Уменьшаем размер шрифта */
+    }
+
+    .title {
+        margin-bottom: 24px; /* Уменьшаем нижний отступ */
+    }
+
+    .container-4 {
+        font-size: 14px; /* Уменьшаем размер шрифта */
+        margin-left: 20px; /* Уменьшаем левый отступ */
+    }
+
+    .th-1-button-fixed-text-large-primary-1,
+    .th-1-button-fixed-text-large-primary {
+        width: 100%; /* Устанавливаем ширину кнопки на 100% */
+        padding: 12px 0; /* Уменьшаем отступы внутри кнопки */
+    }
+
+    .container-3 {
+        font-size: 14px; /* Уменьшаем размер шрифта */
+        margin-left: 20px; /* Уменьшаем левый отступ */
+    }
+
+    .frame-6 {
+        flex-direction: column; /* Меняем направление на вертикальное для мобильных устройств */
+        width: 100%; 
+    }
+
+    .container-2 {
+        font-size: 12px; /* Уменьшаем размер шрифта */
+    }
+    .buttons-01-horizontal {
+        width: 100%; 
+        padding: 0 10px; /* Добавляем отступы */
+    }
+
+    .frame-2 {
+        margin-bottom: 80px; /* Уменьшаем нижний отступ */
+    }
+
+    .polygon-1 {
+        width: 30px; /* Уменьшаем размер кнопки */
+        height: 14px; /* Уменьшаем размер кнопки */
+    }
+
+    .arrow-down {
+        width: 60px; /* Уменьшаем ширину стрелки */
+        height: 60px; /* Уменьшаем высоту стрелки */
+    }
+
+    .cover-02-desktop {
+        padding: 100px 0 30px; /* Уменьшаем отступы */
+        width: 100%; 
+    }
+    .container-19 {
+        font-size: 20px; 
+    }
+
+    .container-17 {
+        font-size: 36px;
+    }
+
+    .container-18 {
+        font-size: 18px; 
+    }
+
+    .title-center-desktop-light {
+        margin-bottom: 32px; 
+    }
+
+    .rectangle-18209,
+    .rectangle-182091 {
+        width: 34%; 
+        
+    }
+
+    .container-20,
+    .container-21 {
+        font-size: 16px; 
+    }
+
+    .frame-44 {
+        width: 100%; 
+    }
+    .container-22,
+    .container-24 {
+        font-size: 16px;
+    }
+
+    .container-23,
+    .container-25 {
+        font-size: 16px;
+    }
+
+    .rectangle-182091,
+    .rectangle-182092 {
+        width: 100%; 
+         /* Высота автоматически с учетом пропорций */
+    }
+
+    .frame-441,
+    .frame-442 {
+        width: 100%; 
+    }
+
+    .rectangle-182091:hover,
+    .rectangle-182092:hover {
+        transform: scale(1.05); /* Уменьшаем эффект при наведении для мобильников */
+    }
+    .rectangle-182093 {
+        width: 100%; /* Full width on small screens */
+        
+    }
+
+    .container-26, .container-14, .container-15 {
+        font-size: 16px; /* Smaller font size */
+    }
+
+    .container-27 {
+        font-size: 16px; /* Smaller font size */
+    }
+
+    .benefits-05 {
+        padding: 60px 0; /* Decrease padding for mobile */
+        width: auto; /* Allow it to fit parent */
+    }
+
+    .frame-9 {
+        flex-direction: column; /* Stack items vertically */
+        column-gap: 0; /* Remove gap */
+    }
+
+    .th-1-button-fixed-text-large-primary-2 {
+        width: 100%; /* Button full width */
+        padding: 10px 0; /* Adjust button padding */
+    }
+    .th-1-button-fixed-text-large-primary-2 {
+        width: 100%; /* Full width on small screens */
+        padding: 10px 0; /* Adjust padding for smaller buttons */
+    }
+
+    .about-02-desktop {
+        width: auto; /* Allow responsive width */
+        padding: 60px 0; /* Reduce padding for mobile */
+    }
+
+    .container-29,
+    .container-32,
+    .container-36 {
+        font-size: 18px; /* Decrease font size */
+        width: 296px;
+    }
+
+    .container-28 {
+        font-size: 32px; /* Reduce title font size */
+    }
+
+    .container-30,
+    .container-34 {
+        width: 70px; /* Adjust container size for icons */
+        height: 70px;
+    }
+
+    .frame-8,
+    .frame-81 {
+        width: 100%; /* Ensure frames are full width */
+        align-items: flex-start; /* Align items to start */
+    }
+
+    .icon-text-center-1-of-4-light,
+    .icon-text-center-1-of-4-light-1 {
+        margin-right: 0; /* Remove right margin */
+    }
+    .discount-2,
+    .discount-3 {
+        width: 40px; /* Slightly reduced size for mobile */
+        height: 40px;
+    }
+
+    .container-38,
+    .container-42 {
+        width: 70px; /* Adjust icon container size */
+        height: 70px; /* Maintain proportion */
+        padding: 15px 0; /* Adjust padding for smaller buttons */
+    }
+
+    .container-40,
+    .container-44 {
+        font-size: 24px; /* Decrease font size for titles */
+    }
+
+    .container-41,
+    .container-45 {
+        font-size: 16px; /* Decrease font size for body text */
+    }
+
+    .icon-text-center-1-of-4-light-2 {
+        margin-right: 20px; /* Adjust margin for a smaller screen */
+    }
+
+    .frame-82 {
+        width: 100%; /* Full width on small screens */
+        align-items: center; /* Center items */
+    }
+    .benefits-05-desktop {
+        padding: 60px 0; /* Reduce padding for mobile layout */
+        width: auto; /* Allow responsive width */
+    }
+
+    .container-46 {
+        font-size: 32px; /* Reduce title font size */
+    }
+
+    .container-48, .container-49, .container-51 {
+        font-size: 24px; /* Decrease font size for body and title text */
+    }
+
+    .container-47, .container-50 {
+        font-size: 16px; /* Further reduce font size for better fit */
+    }
+
+    .card-1-of-3 {
+        width: 100%; /* Make cards responsive */
+        padding: 150px 0 20px; /* Adjust padding for smaller screens */
+    }
+
+    .card-1-of-3-text-bottom-center-dark {
+        width: 100%; /* Make text container responsive */
+    }
+
+    .frame-91 {
+        flex-direction: column; /* Change layout to column for narrow screens */
+        align-items: center; /* Center items */
+        width: 100%; /* Ensure full width */
+    }
+
+    .icon-text-center-1-of-4-light-3 {
+        align-items: center; /* Align items for better presentation */
+    }
+    .container-52 {
+        font-size: 16px; /* Reduce font size for easier reading */
+    }
+
+    .container-53, .container-55 {
+        font-size: 22px; /* Decrease title font size */
+    }
+
+    .card-1-of-31, .card-1-of-32 {
+        width: 100%; /* Card takes full width on mobile */
+        padding: 150px 0 20px; /* Adjust padding for smaller screens */
+    }
+
+    .card-1-of-3-text-bottom-center-dark-1,
+    .card-1-of-3-text-bottom-center-dark-2 {
+        width: 100%; /* Text container becomes responsive */
+    }
+
+    .frame-92 {
+        flex-direction: column; /* Stack cards vertically for smaller screens */
+        align-items: center; /* Center items in column layout */
+        width: 100%; /* Full width for better fit */
+        row-gap: 20px; /* Add gap between stacked items */
+    }
+    .card-1-of-34, .card-1-of-35 {
+        width: 100%; /* Cards take full width on mobile */
+        padding: 150px 0 20px; /* Adjust padding for better layout */
+    }
+
+    .card-1-of-3-text-bottom-center-dark-4,
+    .card-1-of-3-text-bottom-center-dark-5 {
+        width: 100%; /* Make text containers responsive */
+    }
+
+    .frame-10 {
+        flex-direction: column; /* Stack cards vertically for small screens */
+        align-items: center; /* Center items */
+        width: 100%; /* Full width for better fit */
+    }
+
+    .container-59, .container-61 {
+        font-size: 22px; /* Title font size adjustment for mobile */
+    }
+
+    .container-60 {
+        font-size: 16px; /* Body font size adjustment for mobile */
+    }
+
+    .benefits-10-desktop {
+        margin: 20px; /* Reduce margins on mobile */
+        padding: 60px 0; /* Reduce padding for mobile layout */
+        width: auto; /* Adjust width */
+    }
+
+    .container-62 {
+        font-size: 18px; /* Adjust subtitle font size for mobile */
+    }
+
+    .ellipse-1 {
+        width: 50px; /* Reduce size of ellipse on mobile */
+        height: 50px; /* Reduce size of ellipse on mobile */
+    }
+    .container-63,
+    .container-66 {
+        font-size: 18px; /* Reduce title size */
+        margin-bottom: 40px; /* Adjust margin */
+    }
+
+    .container-64,
+    .container-67 {
+        font-size: 16px; /* Reduce body size */
+    }
+
+    .container-65,
+    .container-68 {
+        font-size: 12px; /* Reduce caption size */
+    }
+
+    .ellipse-11 {
+        width: 50px; /* Reduce size of ellipse */
+        height: 50px; /* Reduce size of ellipse */
+    }
+
+    .review-1-of-3-light,
+    .review-1-of-2-light,
+    .review-1-of-3-light-1 {
+        width: 100%; /* Cards full width on mobile */
+        padding: 20px; /* Adjust padding for mobile */
+    }
+
+    .frame-101,
+    .frame-102 {
+        width: 100%; /* Make frames full width */
+    }
+
+    .frame-23 {
+        flex-direction: column; /* Stack items vertically */
+        width: fit-content; /* Adjust width for better fit */
+    }
+
+    .reviews-03-desktop {
+        padding: 50px 0; /* Reduce padding for mobile */
+        width: 100%; /* Make full width on mobile */
+    }
+    .container-79 {
+        font-size: 32px; /* Reduce title font size for mobile */
+    }
+
+    .container-80 {
+        font-size: 18px; /* Reduce body text size */
+        line-height: 1.5; /* Adjust line-height for better readability */
+    }
+
+    .frame-21 {
+        margin-bottom: 30px; /* Reduce margins on mobile */
+    }
+
+    .rectangle-58,
+    .rectangle-59,
+    .rectangle-60,
+    .rectangle-61 {
+        width: 100%; /* Make rectangles full width on mobile */
+         /* Adjust height automatically */
+        padding: 10px; /* Add padding for better touch targets */
+    }
+
+    .frame-45 {
+        flex-direction: column; /* Stack rectangles vertically on mobile */
+        align-items: center; /* Center align */
+    }
+
+    .benefits-051 {
+        padding: 60px 0; /* Reduce padding for mobile layout */
+        width: 100%; /* Ensure full width */
+    }
+
+    .partners-01-desktop {
+        width: 100%; /* Full width on mobile */
+    }
+    .container-69 {
+        font-size: 32px; /* Reduce main title font size */
+    }
+
+    .container-70,
+    .container-71,
+    .container-72,
+    .email,
+    .container-75 {
+        font-size: 16px; /* Reduce body text font size */
+    }
+
+    .title-3 {
+        margin-bottom: 20px; /* Adjust margin */
+    }
+
+    .th-1-form-input-default,
+    .th-1-form-input-default-1,
+    .th-1-form-input-default-2 {
+        width: 100%; /* Make inputs full width */
+        margin-bottom: 12px; /* Adjust bottom margin for inputs */
+        padding: 8px; /* Add padding for better interaction */
+    }
+
+    .container-78 {
+        margin: 0 5px 12px; /* Adjust margins for better spacing */
+        font-size: 16px; /* Reduce font size */
+    }
+
+    .th-1-form-radio-on,
+    .rectangle-471 {
+        margin-right: 8px; /* Adjust margin for radio buttons */
+        width: 20px; /* Adjust width */
+        height: 20px; /* Adjust height */
+        padding: 6px; /* Adjust padding */
+    }
+
+    .th-1-form-option {
+        flex-direction: column; /* Stack options vertically */
+        align-items: flex-start; /* Align items to the start */
+    }
+    .container-76 {
+        font-size: 16px; /* Reduce font size for body text */
+    }
+
+    .th-1-button-full-text-large-primary {
+        width: 100%; /* Make button full width */
+        padding: 12px 0; /* Adjust padding */
+        margin-bottom: 16px; /* Reduce margin */
+    }
+
+    .th-1-form-option-1,
+    .th-1-form-option-2 {
+        flex-direction: column; /* Stack radio buttons vertically */
+        align-items: flex-start; /* Align to the start */
+    }
+
+    .rectangle-472 {
+        width: 20px; /* Adjust width for radio buttons */
+        height: 20px; /* Adjust height for radio buttons */
+    }
+
+    .th-1-form-radio-off-1 {
+        width: 20px; /* Adjust width for radio button */
+        height: 20px; /* Adjust height for radio button */
+    }
+
+    .container-73 {
+        font-size: 16px; /* Reduce font size for body text */
+    }
+
+    .container-74 {
+        font-size: 12px; /* Reduce font size for labels */
+    }
+
+    .form-06-desktop {
+        width: 100%; /* Make form full width */
+        padding: 50px 10px; /* Adjust padding for mobile layout */
+    }
+
+    .container-74-sub4,
+    .container-74-sub3 {
+        font-size: 12px; /* Adjust font size for smaller text */
+    }
+    .social-button-light,
+    .social-button-light-1,
+    .social-button-light-2,
+    .social-button-light-3 {
+        width: 48px; /* Reduce button width */
+        height: 48px; /* Reduce button height */
+        padding: 12px; /* Adjust padding */
+    }
+
+    .social-light {
+        width: 100%; /* Make the social light container full width */
+        margin: 0; /* Remove left margin */
+        gap: 8px; /* Reduce gap to fit better */
+    }
+
+    .vector-2, .vector-3, .vector {
+        width: 20px; /* Slightly reduce icon sizes */
+        height: auto; /* Maintain aspect ratio */
+    }
+    .container-82, .container-83, .container-84, .container-85 {
+        font-size: 14px; /* Reduce font size for better readability on small screens */
+        margin-right: 5px; /* Reduce right margin */
+        width: auto; /* Allow width to adjust naturally */
+    }
+
+    .navigation-1 {
+        flex-direction: column; /* Stack navigation items vertically */
+        width: auto; /* Allow width to adjust naturally */
+    }
+
+    .container-81 {
+        margin-right: 20px; /* Reduce right margin */
+        margin-left: 20px; /* Reduce left margin */
+        font-size: 12px; /* Reduce font size */
+    }
+
+    .image-2-3 {
+        margin: 20px; /* Reduce margins around the images */
+        width: 100%; /* Make it responsive */
+        height: auto; /* Allow height to adjust */
+        flex-direction: column; /* Stack images vertically */
+    }
+
+    .image-2-3 .image-2-31,
+    .image-2-3 .image-2-32,
+    .image-2-3 .image-2-33 {
+        width: 100%; /* Full width for images */
+        height: auto; /* Maintain aspect ratio */
+        margin-bottom: 10px; /* Add spacing between stacked images */
+        border-radius: 12px; /* More rounded corners for smaller screens */
+    }
+}
