@@ -1,0 +1,14 @@
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\bin\Debug\net8.0\CodeRun№28.exe
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\bin\Debug\net8.0\CodeRun№28.deps.json
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\bin\Debug\net8.0\CodeRun№28.runtimeconfig.json
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\bin\Debug\net8.0\CodeRun№28.dll
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\bin\Debug\net8.0\CodeRun№28.pdb
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\CodeRun№28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\CodeRun№28.AssemblyInfoInputs.cache
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\CodeRun№28.AssemblyInfo.cs
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\CodeRun№28.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\CodeRun№28.dll
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\refint\CodeRun№28.dll
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\CodeRun№28.pdb
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\CodeRun№28.genruntimeconfig.cache
+C:\Users\Ученик\source\repos\CodeRun№28\CodeRun№28\obj\Debug\net8.0\ref\CodeRun№28.dll
