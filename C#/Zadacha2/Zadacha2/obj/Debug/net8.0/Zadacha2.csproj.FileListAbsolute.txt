@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\bin\Debug\net8.0\Zadacha2.exe
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\bin\Debug\net8.0\Zadacha2.deps.json
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\bin\Debug\net8.0\Zadacha2.runtimeconfig.json
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\bin\Debug\net8.0\Zadacha2.dll
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\bin\Debug\net8.0\Zadacha2.pdb
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\Zadacha2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\Zadacha2.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\Zadacha2.dll
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\refint\Zadacha2.dll
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\Zadacha2.pdb
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\Zadacha2.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\Zadacha2\Zadacha2\obj\Debug\net8.0\ref\Zadacha2.dll
